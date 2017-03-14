@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Pierwsze Sprawozdanie.cpp
+c:\users\kamil\desktop\grafika\4\2\pierwsze sprawozdanie\pierwsze sprawozdanie.cpp(23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\desktop\grafika\4\2\pierwsze sprawozdanie\pierwsze sprawozdanie.cpp(24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\desktop\grafika\4\2\pierwsze sprawozdanie\pierwsze sprawozdanie.cpp(15): warning C4101: 'z': unreferenced local variable
+  Pierwsze Sprawozdanie.vcxproj -> C:\Users\Kamil\Desktop\Grafika\4\2\Debug\Pierwsze Sprawozdanie.exe
