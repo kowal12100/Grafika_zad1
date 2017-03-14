@@ -1,0 +1,4 @@
+﻿  Pierwsze Sprawozdanie.cpp
+c:\users\kamil\desktop\grafika\4\pierwsze sprawozdanie\pierwsze sprawozdanie\pierwsze sprawozdanie.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\4\pierwsze sprawozdanie\pierwsze sprawozdanie\pierwsze sprawozdanie.cpp(38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Pierwsze Sprawozdanie.vcxproj -> C:\Users\Kamil\Desktop\Grafika\4\Pierwsze Sprawozdanie\Debug\Pierwsze Sprawozdanie.exe
